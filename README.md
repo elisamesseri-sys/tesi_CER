@@ -23,3 +23,4 @@ Il repository contiene:
 ## Risultati
 
 I risultati principali e il confronto tra i due scenari sono discussi nel Capitolo 6 della tesi.
+La cartella 'risultati' contiene i principali output numerici relativi ai due scenari analizzati.
