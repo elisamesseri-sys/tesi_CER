@@ -2,7 +2,6 @@ Produzione FV totale giornaliera: 264.2215 kWh
 Domanda totale giornaliera CER: 87.28 kWh
 SOC iniziale: 4.75 kWh
 
-
 Result - Optimal solution found
 
 Objective value:                -21.22377394
