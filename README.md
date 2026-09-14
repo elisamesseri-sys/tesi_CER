@@ -24,3 +24,6 @@ Il repository contiene:
 
 I risultati principali e il confronto tra i due scenari sono discussi nel Capitolo 6 della tesi.
 La cartella 'risultati' contiene i principali output numerici relativi ai due scenari analizzati.
+
+## Dati di input
+La cartella 'dati' contiene il file Excel con i dati utilizzati nel modello, relativi alla produzione fotovoltaica, ai profili di domanda degli utenti, ai prezzi di acquisto e vendita dell’energia e ai parametri tecnici del sistema di accumulo. Il file comprende sia il caso base con 4 prosumer e 6 consumer sia lo scenario alternativo con 5 prosumer e 15 consumer.
